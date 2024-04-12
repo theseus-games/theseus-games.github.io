@@ -558,11 +558,11 @@ section {
 --------------------------------------------------------------*/
 .hero-animated {
   width: 100%;
-  min-height: 50vh;
+  min-height: 30vh;
   background: url("../img/hero-bg.png") center center;
   background-size: cover;
   position: relative;
-  padding: 120px 0 60px;
+  padding: 10px 0 10px;
 }
 
 .hero-animated h2 {
